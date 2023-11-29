@@ -5,7 +5,7 @@
 - Animated textures,
 - Unique gameplay,
 - Support for adding third-party levels.
-- 
+  
 ## Controls:
 - **A/D** or **←/→** - character movement left-right
 - **Space** - jump
