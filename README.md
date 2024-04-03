@@ -1,5 +1,5 @@
 <h1 align="center">Cave Adventures</h1>
-<h4 align="center">Cave Adventures is a simplest 2D-platformer. The main task of the hero is to clear all the locations from monsters and find a way out.</h4>
+<h4 align="center">Cave Adventures is the simplest 2D-platformer. The main task of the hero is to clear all the locations from monsters and find a way out.</h4>
 
 ![alt text](Pictures/Screenshots1.png)
 ![alt text](Pictures/Screenshots2.png)
